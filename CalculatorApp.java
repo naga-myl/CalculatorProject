@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CalculatorApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		double a, b, div;
 		int sum = 0, diff = 0, mul = 1;
 		Scanner s = new Scanner(System.in);
